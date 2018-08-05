@@ -1,0 +1,17 @@
+---
+output: github_document
+---
+
+
+# RPack
+
+The goal of RPack is my experimentation with the various packages
+
+## Installation
+
+You can install RPack from github with:
+
+```{r gh-installation, eval = FALSE}
+# install.packages("devtools")
+devtools::install_github("zflouris/RPack")
+```

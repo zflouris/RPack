@@ -1,6 +1,8 @@
 
 #' Production and farm value of maple products in Canada
 #'
+#' @export
+#'
 #' @source Statistics Canada. Table 001-0008 - Production and farm value of
 #' maple products, annual. \url{http://www5.statcan.gc.ca/cansim/}
 #' @format A data frame with columns:
@@ -11,6 +13,6 @@
 #' }
 #' @examples
 #' \dontrun{
-#' maple
+#' data
 #' }
 "data"

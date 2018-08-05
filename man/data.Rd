@@ -2,26 +2,11 @@
 % Please edit documentation in R/data.R
 \name{data}
 \alias{data}
-\title{Production and farm value of maple products in Canada}
-\format{A data frame with columns:
-\describe{
-\item{Year}{A value between 1924 and 2015.}
-\item{Syrup}{Maple products expressed as syrup, total in thousands of gallons.} #' \item{CAD}{Gross value of maple products in thousands of Canadian dollars.}
-\item{Region}{Postal code abbreviation for territory or province.}
-}}
-\source{
-Statistics Canada. Table 001-0008 - Production and farm value of
-maple products, annual. \url{http://www5.statcan.gc.ca/cansim/}
-}
+\title{some random data}
 \usage{
 data(..., list = character(), package = NULL, lib.loc = NULL,
   verbose = getOption("verbose"), envir = .GlobalEnv)
 }
 \description{
-Production and farm value of maple products in Canada
-}
-\examples{
-\dontrun{
-maple
-}
+some random data
 }
